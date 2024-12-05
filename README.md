@@ -26,12 +26,12 @@
 <br>
 <span>Desktop Desgin</span><br/>
 <a href="https://www.behance.net/gallery/214086007/OptiMed-Solutions-Landing-Page" target="_blank" >
-<img src="./img/landing-page.gif" width="225px"/>
+<img src="./img/landing-page.gif" width="525px"/>
 </a>
 <br>
 <span>UI UX Layout Desgin</span><br/>
 <a href="https://www.behance.net/gallery/214086007/OptiMed-Solutions-Landing-Page" target="_blank" >
-<img src="./img/ui-ux-layout landing-page.gif" width="225px"/>
+<img src="./img/ui-ux-layout landing-page.gif" width="525px"/>
 </a>
 <a href="https://www.behance.net/gallery/214086007/OptiMed-Solutions-Landing-Page" target="_blank" >
 <img src="./img/cover.png" width="575px"/>
